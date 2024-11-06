@@ -21,6 +21,8 @@ jobs:
           API_BASE_URL: https://wakatime.com/api # optional
           REPOSITORY: ghrtghf/phil # optional
           ### content
+          CODE_LANG: PHP
           BLOCKS: ░▒▓█ # optional
           SHOW_TOTAL: true
           IGNORED_LANGUAGES: HTML
+          LOCALE: "ru"
