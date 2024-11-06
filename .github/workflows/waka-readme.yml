@@ -22,6 +22,5 @@ jobs:
           REPOSITORY: ghrtghf/phil # optional
           ### content
           BLOCKS: ░▒▓█ # optional
-          CODE_LANG: php # optional
           SHOW_TOTAL: true
           IGNORED_LANGUAGES: HTML
