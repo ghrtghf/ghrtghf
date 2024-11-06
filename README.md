@@ -5,7 +5,7 @@
 ```php
 $phil = [
     'pronouns' => ['he', 'him'],
-    'backend' => ['PHP', 'Laravel'],
+    'backend' => ['PHP', 'Composer', 'Laravel'],
     'frontend' => ['HTML', 'JavaScript', 'CSS'],
     'database' => ['PostgreSQL', 'MySQL'],
     'architecture' => ['REST API'],
