@@ -3,13 +3,13 @@
 </div>
 
 ```php
-CONST Phil = {
-  pronouns: "He" | "him",
-  backend: ["PHP", "Laravel"],
-  frontend: ["HTML", "Javascript", "CSS"],
-  database: ["Postgresql", "mySQL"],
-  architecture: ["Rest-API"],
-}
+$phil = [
+    'pronouns' => ['he', 'him'],
+    'backend' => ['PHP', 'Laravel'],
+    'frontend' => ['HTML', 'JavaScript', 'CSS'],
+    'database' => ['PostgreSQL', 'MySQL'],
+    'architecture' => ['REST API'],
+];
 ```
 
 <!--START_SECTION:waka-->
