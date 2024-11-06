@@ -5,7 +5,6 @@
 ## ⚙️Skills:
 ```php
 $phil = [
-    'pronouns' => ['he', 'him'],
     'backend' => ['PHP', 'Composer', 'Laravel'],
     'frontend' => ['HTML', 'JavaScript', 'CSS'],
     'database' => ['PostgreSQL', 'MySQL'],
