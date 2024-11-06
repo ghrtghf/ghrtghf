@@ -14,7 +14,7 @@ CONST Phil = {
 
 <!--START_SECTION:waka-->
 
-```php
+```txt
 Total Time: 17 hrs 15 mins
 
 PHP            11 hrs 26 mins  ████████████████▒░░░░░░░░   65.24 %
