@@ -4,7 +4,7 @@
 
 ## ⚙️Skills:
 ```php
-$phil = [
+$Philip = [
     'backend' => ['PHP', 'Composer', 'Laravel'],
     'frontend' => ['HTML', 'JavaScript', 'CSS'],
     'database' => ['PostgreSQL', 'MySQL'],
