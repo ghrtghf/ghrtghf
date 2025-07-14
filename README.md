@@ -17,7 +17,7 @@ $Philip = [
 ```PHP
 Total Time: 0 secs
 
-PHP   0 secs          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
