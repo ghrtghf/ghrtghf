@@ -15,9 +15,9 @@ $Philip = [
 <!--START_SECTION:waka-->
 
 ```PHP
-Total Time: 0 secs
+Total Time: 4 mins
 
-PHP   0 secs          █████████████████████████   100.00 %
+PHP    3 mins          ███████████████████▓░░░░░   79.10 %
 ```
 
 <!--END_SECTION:waka-->
