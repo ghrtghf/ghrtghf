@@ -15,11 +15,10 @@ $Philip = [
 <!--START_SECTION:waka-->
 
 ```PHP
-Total Time: 1 hr 11 mins
+Total Time: 1 hr 5 mins
 
-PHP     52 mins         ██████████████████░░░░░░░   72.36 %
-JSON    12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+PHP    52 mins         ████████████████████░░░░░   79.82 %
+JSON   10 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
 ```
 
 <!--END_SECTION:waka-->
